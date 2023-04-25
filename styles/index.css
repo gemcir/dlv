@@ -141,6 +141,8 @@ footer a {
     }
 
     #titulo-principal {
+        margin-left: 10%;
+        margin-top: 33%;
         font-size: 2rem;
     }
 }
